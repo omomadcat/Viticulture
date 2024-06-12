@@ -1,3 +1,0 @@
-# API Keys
-
-NOAA_CLIMATE_DATA = 'pQEtCzeZGBUnHfKnnUDFOVpcMDpHRwHc'
