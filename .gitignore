@@ -1,6 +1,9 @@
 #API keys
 .env
 
+# Config files
+config.py
+
 #MACOS files
 .DS_Store
 git_info.md
