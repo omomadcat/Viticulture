@@ -1,3 +1,6 @@
+#API keys
+.env
+
 #MACOS files
 .DS_Store
 git_info.md
