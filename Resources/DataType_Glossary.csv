@@ -1,0 +1,34 @@
+DataType,Definition
+DP10,Number of days with >= 0.1 inch
+DP1X,Number of days with >= 1.00 inch
+DT32,Number of days with maximum temperature <= 32 degrees Fahrenheit/0 degrees Celsius.
+DX70,Number of days with maximum temperature >= 70 degrees Fahrenheit/21.1 degrees Celsius.
+DX90,Number of days with maximum temperature >= 90 degrees Fahrenheit/32.2 degrees Celsius
+EMNT,"Extreme minimum temperature for month. Lowest daily minimum temperature for the
+month. Given in Celsius or Fahrenheit depending on user specification."
+EMXP,Highest daily total of precipitation in the month. Given in inches or millimeters depending on user specification.
+EMXT,"Extreme maximum temperature for month. Highest daily maximum temperature for the
+month. Given in Celsius or Fahrenheit depending on user specification."
+HTDD,"Heating Degree Days. Computed when daily average temperature is less than 65 degrees
+Fahrenheit/18.3 degrees Celsius. HDD = 65(F)/18.3(C) - mean daily temperature. Each day is summed to
+produce a monthly total. Given in Celsius or Fahrenheit degrees depending on user specification."
+MNPN,"Monthly Mean Minimum Temperature of evaporation pan water. Given in Celsius or
+Fahrenheit depending on user specification. Missing if more than 5 days within the month are missing or
+flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag
+indicating number of days missing or flagged (from 1 to 5)."
+MXPN,"Monthly Mean Maximum Temperature of evaporation pan water. Given in Celsius or
+Fahrenheit depending on user specification. Missing if more than 5 days within the month are missing or
+flagged or if more than 3 consecutive values within the month are missing or flagged. DaysMissing: Flag
+indicating number of days missing or flagged (from 1 to 5)."
+PRCP," Total Monthly Precipitation. Given in inches or millimeters depending on user
+specification. Measurement Flags: T is used for trace amount, a is used for any accumulation within a
+month that includes missing days. If no days are missing, no flag is used."
+TAVG,"Average Monthly Temperature. Computed by adding the unrounded monthly
+maximum and minimum temperatures and dividing by 2. Given in Celsius or Fahrenheit depending on
+user specification. Missing if more than 5 days within the month are missing or flagged or if more than 3
+consecutive values within the month are missing or flagged. DaysMissing: Flag indicating number of days
+missing or flagged (from 1 to 5)."
+TMAX,"Monthly Maximum Temperature. Average of daily maximum temperature given in
+Celsius or Fahrenheit depending on user specification. Missing if more than 5 days within the month are
+missing or flagged or if more than 3 consecutive values within the month are missing or flagged.
+DaysMissing: Flag indicating number of days missing or flagged (from 1 to 5)."
