@@ -29,4 +29,34 @@ Analysis of climate change impact to global wine production (1995 to 20??)
   - [NCEI Data Service API User Documentation](https://www.ncei.noaa.gov/support/access-data-service-api-user-documentation)
 
 ## Files
-*[Modify once repo has been cleaned]*
+- Wine_data_all_1.xlsx
+  - Wine production, export, imports, consumption data from International Organization of Vine and Wine dataset
+    - Attributes: Continent, Region/Country, Product, Variable, Year, Unit
+    - Metrics: Quantity (1000hl)
+  - Base dataset
+  - Assign country code mapping from ghcnd-countries.csv joined on country name
+  - Manually assign country code where country names were slightly different 
+
+- country_weather_adj.csv
+  - Cleaned version of weather_all_country_codes3.csv
+    - Create new columns for year, country code
+    - Create logic to calculate average where there are multiple records for year/country code key
+    - Remove original records used in calculated average
+    - Append averaged records to dataset
+    - Format the dataset to create new columns for datatypes
+    - Export to resources folder to validate output
+  
+- Country_weather_cleaning.ipynb
+  - Jupiter lab notebook with python code to produce country_weather_adj.csv
+
+- Wine_Country_Weather_Data_adj.xlsx
+  - Cleaned and merged version of Wine_data_all_1.xlsx and country_weather_adj.csv
+  - Merged on year and countrycode key
+  - Combined wine data with climate data
+  
+- Wine_Project_Solution_main.ipynb
+  - Jupiter lab notebook with python code which sources Wine_Country_Weather_Data_adj.xlsx
+  - Converts quantity (1000hl) to gallons and creates new column called quantity (gallons)
+  - Formats the sequence of columns
+  - Delete records where country code is null
+  - Finalized dataframe as starter code to start analysis
