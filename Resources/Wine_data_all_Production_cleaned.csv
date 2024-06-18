@@ -1,0 +1,214 @@
+Continent,Region/Country,Product,Variable,Year,Unit,Quantity,Quantity_gallons,Country_Code
+Asia,Afghanistan,Wine,Production,1995,1000 hl,0,0.0,AF
+Europe,Albania,Wine,Production,1995,1000 hl,169,4464506.8,AL
+Africa,Algeria,Wine,Production,1995,1000 hl,571,15084221.200000001,AG
+Oceania,American Samoa,Wine,Production,1995,1000 hl,0,0.0,AQ
+Europe,Andorra,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Angola,Wine,Production,1995,1000 hl,0,0.0,AO
+America,Antigua and Barbuda,Wine,Production,1995,1000 hl,0,0.0,AC
+America,Argentina,Wine,Production,1995,1000 hl,16443,434378019.6,AR
+Asia,Armenia,Wine,Production,1995,1000 hl,104,2747388.8000000003,AM
+America,Aruba,Wine,Production,1995,1000 hl,0,0.0,
+Oceania,Australia,Wine,Production,1995,1000 hl,5028,132825681.60000001,AS
+Europe,Austria,Wine,Production,1995,1000 hl,2229,58883938.800000004,AU
+Asia,Azerbaijan,Wine,Production,1995,1000 hl,71,1875621.2000000002,AJ
+America,Bahamas,Wine,Production,1995,1000 hl,0,0.0,BF
+Asia,Bahrain,Wine,Production,1995,1000 hl,0,0.0,BA
+Asia,Bangladesh,Wine,Production,1995,1000 hl,0,0.0,BG
+America,Barbados,Wine,Production,1995,1000 hl,0,0.0,BB
+Europe,Belarus,Wine,Production,1995,1000 hl,102,2694554.4,BO
+Europe,Belgium,Wine,Production,1995,1000 hl,1,26417.2,BE
+Europe,Belgium and Luxemburg,Wine,Production,1995,1000 hl,0,0.0,
+America,Belize,Wine,Production,1995,1000 hl,0,0.0,BH
+Africa,Benin,Wine,Production,1995,1000 hl,0,0.0,BN
+America,Bermuda,Wine,Production,1995,1000 hl,0,0.0,BD
+Asia,Bhutan,Wine,Production,1995,1000 hl,0,0.0,
+America,Bolivia,Wine,Production,1995,1000 hl,20,528344.0,BL
+Europe,Bosnia and Herzegovina,Wine,Production,1995,1000 hl,34,898184.8,BK
+Africa,Botswana,Wine,Production,1995,1000 hl,0,0.0,BC
+America,Brazil,Wine,Production,1995,1000 hl,3128,82633001.60000001,BR
+Asia,Brunei Darussalam,Wine,Production,1995,1000 hl,0,0.0,BX
+Europe,Bulgaria,Wine,Production,1995,1000 hl,2641,69767825.2,BU
+Africa,Burkina Faso,Wine,Production,1995,1000 hl,0,0.0,UV
+Africa,Burundi,Wine,Production,1995,1000 hl,0,0.0,BY
+Africa,Cabo Verde,Wine,Production,1995,1000 hl,0,0.0,
+Asia,Cambodia,Wine,Production,1995,1000 hl,0,0.0,CB
+Africa,Cameroon,Wine,Production,1995,1000 hl,0,0.0,CM
+America,Canada,Wine,Production,1995,1000 hl,355,9378106.0,CA
+America,Cayman Islands,Wine,Production,1995,1000 hl,0,0.0,CJ
+Africa,Central African Republic,Wine,Production,1995,1000 hl,0,0.0,CT
+Africa,Chad,Wine,Production,1995,1000 hl,0,0.0,CD
+America,Chile,Wine,Production,1995,1000 hl,3164,83584020.8,CI
+Asia,"China, Hong Kong SAR",Wine,Production,1995,1000 hl,0,0.0,
+Asia,"China, Macao SAR",Wine,Production,1995,1000 hl,0,0.0,
+Asia,"China, mainland",Wine,Production,1995,1000 hl,7000,184920400.0,CH
+Asia,"China, Taiwan Province of",Wine,Production,1995,1000 hl,0,0.0,
+America,Colombia,Wine,Production,1995,1000 hl,0,0.0,CO
+Africa,Comoros,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Congo,Wine,Production,1995,1000 hl,0,0.0,CF
+Africa,Congo (the Democratic Republic of the),Wine,Production,1995,1000 hl,0,0.0,CG
+Oceania,Cook Islands,Wine,Production,1995,1000 hl,0,0.0,CW
+America,Costa Rica,Wine,Production,1995,1000 hl,0,0.0,CS
+Africa,Côte d'Ivoire,Wine,Production,1995,1000 hl,0,0.0,IV
+Europe,Croatia,Wine,Production,1995,1000 hl,1785,47154702.0,HR
+America,Cuba,Wine,Production,1995,1000 hl,0,0.0,CU
+Europe,Cyprus,Wine,Production,1995,1000 hl,555,14661546.0,CY
+Europe,Czech Republic,Wine,Production,1995,1000 hl,459,12125494.8,EZ
+Africa,Djibouti,Wine,Production,1995,1000 hl,0,0.0,
+America,Dominica,Wine,Production,1995,1000 hl,0,0.0,DO
+America,Dominican Republic,Wine,Production,1995,1000 hl,0,0.0,DR
+America,Ecuador,Wine,Production,1995,1000 hl,0,0.0,EC
+Africa,Egypt,Wine,Production,1995,1000 hl,26,686847.2000000001,EG
+America,El Salvador,Wine,Production,1995,1000 hl,0,0.0,ES
+Africa,Equatorial Guinea,Wine,Production,1995,1000 hl,0,0.0,EK
+Africa,Eritrea,Wine,Production,1995,1000 hl,0,0.0,ER
+Europe,Estonia,Wine,Production,1995,1000 hl,14,369840.8,EN
+Africa,Eswatini,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Ethiopia,Wine,Production,1995,1000 hl,10,264172.0,ET
+Europe,Faroe Islands,Wine,Production,1995,1000 hl,0,0.0,
+Oceania,Fiji,Wine,Production,1995,1000 hl,0,0.0,FJ
+Europe,Finland,Wine,Production,1995,1000 hl,0,0.0,FI
+Europe,France,Wine,Production,1995,1000 hl,54354,1435880488.8,FR
+America,French Guiana,Wine,Production,1995,1000 hl,0,0.0,FG
+Oceania,French Polynesia,Wine,Production,1995,1000 hl,0,0.0,FP
+Africa,Gabon,Wine,Production,1995,1000 hl,0,0.0,GB
+Africa,Gambia,Wine,Production,1995,1000 hl,0,0.0,GA
+Asia,Georgia,Wine,Production,1995,1000 hl,2050,54155260.0,GG
+Europe,Germany,Wine,Production,1995,1000 hl,8510,224810372.0,GM
+Africa,Ghana,Wine,Production,1995,1000 hl,0,0.0,GH
+Europe,Greece,Wine,Production,1995,1000 hl,3841,101468465.2,GR
+America,Greenland,Wine,Production,1995,1000 hl,0,0.0,GL
+America,Grenada,Wine,Production,1995,1000 hl,0,0.0,
+America,Guadeloupe,Wine,Production,1995,1000 hl,0,0.0,GP
+Oceania,Guam,Wine,Production,1995,1000 hl,0,0.0,GQ
+Africa,Guinea,Wine,Production,1995,1000 hl,0,0.0,GV
+Africa,Guinea-Bissau,Wine,Production,1995,1000 hl,0,0.0,PU
+America,Guyana,Wine,Production,1995,1000 hl,0,0.0,GY
+America,Haiti,Wine,Production,1995,1000 hl,0,0.0,
+America,Honduras,Wine,Production,1995,1000 hl,0,0.0,HO
+Europe,Hungary,Wine,Production,1995,1000 hl,3289,86886170.8,HU
+Asia,Indonesia,Wine,Production,1995,1000 hl,0,0.0,ID
+Asia,Iran,Wine,Production,1995,1000 hl,0,0.0,IR
+Asia,Iraq,Wine,Production,1995,1000 hl,0,0.0,IZ
+Europe,Ireland,Wine,Production,1995,1000 hl,0,0.0,EI
+Asia,Israel,Wine,Production,1995,1000 hl,122,3222898.4,IS
+Europe,Italy,Wine,Production,1995,1000 hl,55702,1471490874.4,IT
+America,Jamaica,Wine,Production,1995,1000 hl,0,0.0,JM
+Asia,Japan,Wine,Production,1995,1000 hl,652,17224014.400000002,JA
+Asia,Jordan,Wine,Production,1995,1000 hl,0,0.0,JO
+Asia,Kazakhstan,Wine,Production,1995,1000 hl,122,3222898.4,KZ
+Africa,Kenya,Wine,Production,1995,1000 hl,0,0.0,KE
+Oceania,Kiribati,Wine,Production,1995,1000 hl,0,0.0,KR
+Asia,Korea (the Democratic People's Republic of),Wine,Production,1995,1000 hl,0,0.0,KN
+Asia,Korea (the Republic of),Wine,Production,1995,1000 hl,0,0.0,KS
+Asia,Kuwait,Wine,Production,1995,1000 hl,0,0.0,KU
+Asia,Kyrgyzstan,Wine,Production,1995,1000 hl,26,686847.2000000001,KG
+Asia,Lao People's Democratic Republic,Wine,Production,1995,1000 hl,0,0.0,LA
+Europe,Latvia,Wine,Production,1995,1000 hl,47,1241608.4000000001,LG
+Asia,Lebanon,Wine,Production,1995,1000 hl,300,7925160.0,LE
+Africa,Lesotho,Wine,Production,1995,1000 hl,0,0.0,LT
+Africa,Liberia,Wine,Production,1995,1000 hl,0,0.0,LI
+Africa,Libya,Wine,Production,1995,1000 hl,0,0.0,LY
+Europe,Liechtenstein,Wine,Production,1995,1000 hl,0,0.0,
+Europe,Lithuania,Wine,Production,1995,1000 hl,11,290589.2,LH
+Europe,Luxemburg,Wine,Production,1995,1000 hl,150,3962580.0,LU
+Africa,Madagascar,Wine,Production,1995,1000 hl,88,2324713.6,MA
+Africa,Malawi,Wine,Production,1995,1000 hl,0,0.0,MI
+Asia,Malaysia,Wine,Production,1995,1000 hl,0,0.0,MY
+Asia,Maldives,Wine,Production,1995,1000 hl,0,0.0,MV
+Africa,Mali,Wine,Production,1995,1000 hl,0,0.0,ML
+Europe,Malta,Wine,Production,1995,1000 hl,32,845350.4,MT
+Oceania,Marshall Islands,Wine,Production,1995,1000 hl,0,0.0,RM
+America,Martinique,Wine,Production,1995,1000 hl,0,0.0,MB
+Africa,Mauritania,Wine,Production,1995,1000 hl,0,0.0,MR
+Africa,Mauritius,Wine,Production,1995,1000 hl,0,0.0,MP
+America,Mexico,Wine,Production,1995,1000 hl,1466,38727615.2,MX
+Oceania,Micronesia,Wine,Production,1995,1000 hl,0,0.0,FM
+Europe,Moldova,Wine,Production,1995,1000 hl,2964,78300580.8,MD
+Europe,Monaco,Wine,Production,1995,1000 hl,0,0.0,
+Asia,Mongolia,Wine,Production,1995,1000 hl,0,0.0,MG
+America,Montserrat,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Morocco,Wine,Production,1995,1000 hl,173,4570175.600000001,MO
+Africa,Mozambique,Wine,Production,1995,1000 hl,0,0.0,MZ
+Asia,Myanmar,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Namibia,Wine,Production,1995,1000 hl,0,0.0,WA
+Oceania,Nauru,Wine,Production,1995,1000 hl,0,0.0,
+Asia,Nepal,Wine,Production,1995,1000 hl,0,0.0,NP
+America,Netherlands Antilles,Wine,Production,1995,1000 hl,0,0.0,NL
+Oceania,New Caledonia,Wine,Production,1995,1000 hl,0,0.0,NC
+Oceania,New Zealand,Wine,Production,1995,1000 hl,564,14899300.8,NZ
+America,Nicaragua,Wine,Production,1995,1000 hl,0,0.0,NU
+Africa,Niger,Wine,Production,1995,1000 hl,0,0.0,NG
+Africa,Nigeria,Wine,Production,1995,1000 hl,0,0.0,NI
+Oceania,Niue,Wine,Production,1995,1000 hl,0,0.0,NE
+Oceania,Norfolk Island,Wine,Production,1995,1000 hl,0,0.0,NF
+Europe,Norway,Wine,Production,1995,1000 hl,0,0.0,NO
+Asia,Oman,Wine,Production,1995,1000 hl,0,0.0,MU
+Asia,Pakistan,Wine,Production,1995,1000 hl,0,0.0,PK
+Oceania,Palau,Wine,Production,1995,1000 hl,0,0.0,PS
+America,Panama,Wine,Production,1995,1000 hl,2,52834.4,PM
+Oceania,Papua New Guinea,Wine,Production,1995,1000 hl,0,0.0,PP
+America,Paraguay,Wine,Production,1995,1000 hl,77,2034124.4000000001,PA
+America,Peru,Wine,Production,1995,1000 hl,106,2800223.2,PE
+Asia,Philippines,Wine,Production,1995,1000 hl,0,0.0,RP
+Europe,Poland,Wine,Production,1995,1000 hl,0,0.0,PL
+Europe,Portugal,Wine,Production,1995,1000 hl,7255,191656786.0,PO
+Asia,Qatar,Wine,Production,1995,1000 hl,0,0.0,QA
+Europe,Republic of North Macedonia,Wine,Production,1995,1000 hl,911,24066069.2,MK
+Asia,Republic of Türkiye,Wine,Production,1995,1000 hl,318,8400669.6,
+Africa,Reunion island,Wine,Production,1995,1000 hl,0,0.0,RE
+Europe,Romania,Wine,Production,1995,1000 hl,6720,177523584.0,RO
+Europe,Russia,Wine,Production,1995,1000 hl,2150,56796980.0,RS
+Africa,Rwanda,Wine,Production,1995,1000 hl,0,0.0,RW
+Africa,Saint Helena,Wine,Production,1995,1000 hl,0,0.0,SH
+America,Saint Kitts and Nevis,Wine,Production,1995,1000 hl,0,0.0,
+America,Saint Lucia,Wine,Production,1995,1000 hl,0,0.0,ST
+America,Saint Pierre And Miquelon,Wine,Production,1995,1000 hl,0,0.0,SB
+America,Saint Vincent and the Grenadines,Wine,Production,1995,1000 hl,0,0.0,
+Oceania,Samoa,Wine,Production,1995,1000 hl,0,0.0,
+Europe,San Marino,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Sao Tome and Principe,Wine,Production,1995,1000 hl,0,0.0,
+Asia,Saudi Arabia,Wine,Production,1995,1000 hl,0,0.0,SA
+Africa,Senegal,Wine,Production,1995,1000 hl,0,0.0,SG
+Europe,Serbia And Montenegro,Wine,Production,1995,1000 hl,0,0.0,RI
+Africa,Seychelles,Wine,Production,1995,1000 hl,0,0.0,SE
+Africa,Sierra Leone,Wine,Production,1995,1000 hl,0,0.0,SL
+Asia,Singapore,Wine,Production,1995,1000 hl,0,0.0,SN
+Europe,Slovakia,Wine,Production,1995,1000 hl,662,17488186.400000002,LO
+Europe,Slovenia,Wine,Production,1995,1000 hl,781,20631833.2,SI
+Oceania,Solomon Islands,Wine,Production,1995,1000 hl,0,0.0,BP
+Africa,Somalia,Wine,Production,1995,1000 hl,0,0.0,
+Africa,South Africa,Wine,Production,1995,1000 hl,8339,220293030.8,SF
+Africa,South Sudan,Wine,Production,1995,1000 hl,0,0.0,SU
+Europe,Spain,Wine,Production,1995,1000 hl,20876,551485467.2,SP
+Asia,Sri Lanka,Wine,Production,1995,1000 hl,0,0.0,CE
+Asia,State of Palestine,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Sudan,Wine,Production,1995,1000 hl,0,0.0,
+America,Suriname,Wine,Production,1995,1000 hl,0,0.0,NS
+Europe,Sweden,Wine,Production,1995,1000 hl,0,0.0,SW
+Europe,Switzerland,Wine,Production,1995,1000 hl,1181,31198713.200000003,SZ
+Asia,Syrian Arab Republic,Wine,Production,1995,1000 hl,2,52834.4,SY
+Asia,Tajikistan,Wine,Production,1995,1000 hl,95,2509634.0,TI
+Africa,"Tanzania, the United Republic of",Wine,Production,1995,1000 hl,0,0.0,TZ
+Asia,Thailand,Wine,Production,1995,1000 hl,0,0.0,TH
+Asia,Timor-Leste,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Togo,Wine,Production,1995,1000 hl,0,0.0,TO
+Oceania,Tonga,Wine,Production,1995,1000 hl,0,0.0,TN
+America,Trinidad and Tobago,Wine,Production,1995,1000 hl,0,0.0,TD
+Africa,Tunisia,Wine,Production,1995,1000 hl,292,7713822.4,TS
+Asia,Turkmenistan,Wine,Production,1995,1000 hl,492,12997262.4,TX
+Oceania,Tuvalu,Wine,Production,1995,1000 hl,0,0.0,TV
+Africa,Uganda,Wine,Production,1995,1000 hl,0,0.0,UG
+Europe,Ukraine,Wine,Production,1995,1000 hl,1860,49135992.0,UP
+Asia,United Arab Emirates,Wine,Production,1995,1000 hl,0,0.0,AE
+Europe,United Kingdom,Wine,Production,1995,1000 hl,18,475509.60000000003,UK
+America,United States of America,Wine,Production,1995,1000 hl,18668,493156289.6,US
+America,Uruguay,Wine,Production,1995,1000 hl,852,22507454.400000002,UY
+Asia,Uzbekistan,Wine,Production,1995,1000 hl,830,21926276.0,UZ
+Oceania,Vanuatu,Wine,Production,1995,1000 hl,0,0.0,NH
+America,Venezuela,Wine,Production,1995,1000 hl,0,0.0,VE
+Asia,Vietnam,Wine,Production,1995,1000 hl,0,0.0,VM
+America,Virgin Islands,Wine,Production,1995,1000 hl,0,0.0,
+Asia,Yemen,Wine,Production,1995,1000 hl,0,0.0,
+Africa,Zambia,Wine,Production,1995,1000 hl,0,0.0,ZA
+Africa,Zimbabwe,Wine,Production,1995,1000 hl,15,396258.0,ZI
