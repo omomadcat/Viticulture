@@ -107,4 +107,9 @@ Analysis of climate change impact to global wine production (1995 to 20??)
     - Working in 10-year data chunks, from 1995-01-01 to 2023-12-31, loops through the ghcnd_country_codes.csv file to grab all available weather stations.
       - retrieves data for the variables DP10, DP1X, DT32, DX70, DX90, PRCP, RHAV, TAVG, TMAX, EMXT, EMNT, HTDD, EMXP, MNPN, MXPN, HXyz, HNyz
     - Exports created data frame to weather_all_country_codes3.csv.
-
+   
+### Conclusions
+![image](https://github.com/omomadcat/Viticulture/assets/114450824/c256d8a5-8a8e-4093-87e4-8f29dc0d6587)
+Based on the above graph, our data shows the following:
+- Wine Production Trend: There is a significant decreasing trend in wine production in France over the years.
+- Temperature Trend: There is an increasing trend in the mean maximum temperature, but the relationship is not statistically significant.
