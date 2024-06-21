@@ -110,6 +110,7 @@ Analysis of climate change impact to global wine production (1995 to 20??)
    
 ### Conclusions
 ![image](https://github.com/omomadcat/Viticulture/assets/114450824/c256d8a5-8a8e-4093-87e4-8f29dc0d6587)
+
 Based on the above graph, our data shows the following:
 - Wine Production Trend: There is a significant decreasing trend in wine production in France over the years.
 - Temperature Trend: There is an increasing trend in the mean maximum temperature, but the relationship is not statistically significant.
